@@ -62,6 +62,11 @@
   - Analysis Unit: 문장
   - Output: hate or not (binary)
 
+- [Korean UnSmile Dataset](https://github.com/smilegate-ai/korean_unsmile_dataset)
+  - 18,742 문장
+  - Analysis Unit: 문장
+  - Input: hate target (여성/가족, 남성, 성소수자, 인종/국적, 연령, 지역, 종교, 기타혐오, 악플/욕설) and non-hate
+
 
 
 ## Other Awesome Repositories
